@@ -1,6 +1,6 @@
 # Dake_Curtis_TMSV1_2025
 
-#### This is a repository for Dake M., Curtis C. E. (2025). Perturbing human V1 degrades the fidelity of visual working memory. [Nature Communications](https://www.biorxiv.org/content/10.1101/2024.06.19.599798v1).
+#### This is a repository for Dake M., Curtis C. E. (2025). Perturbing human V1 degrades the fidelity of visual working memory. [Nature Communications](https://www.nature.com/articles/s41467-025-57882-8).
 #### Accompanying data associated with this project is available on [Open Science Framework](https://osf.io/hf5a4)
 
 #### The repository provides:
